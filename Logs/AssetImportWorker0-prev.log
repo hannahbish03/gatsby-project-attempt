@@ -1,0 +1,580 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19042.1466; Version 2009; 64bit' Language: 'en' Physical Memory: 8127 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Lego part 2/Lego game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61762
+Successfully changed project path to: C:/Lego part 2/Lego game
+C:/Lego part 2/Lego game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 114.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Lego part 2/Lego game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f82)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56592
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.020196 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.138 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.020527 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.034 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2736 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.9 MB.
+System memory in use after: 143.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3167.
+Total: 3.923600 ms (FindLiveObjects: 0.625000 ms CreateObjectMapping: 0.310900 ms MarkObjects: 2.793700 ms  DeleteObjects: 0.192700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Fonts/Bellerose.ttf
+  artifactKey: Guid(486a31899b109fc419a6944279af5080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Bellerose.ttf using Guid(486a31899b109fc419a6944279af5080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720d85d83fa731fe64c21f6c6ede4721') in 0.165023 seconds
+  Import took 0.169805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.291446 seconds.
+  path: Assets/Fonts/Bellerose SDF.asset
+  artifactKey: Guid(45c3d7d070feaaf489af66fb21788419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Bellerose SDF.asset using Guid(45c3d7d070feaaf489af66fb21788419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4702dd42aa0d36f2b4b06540e83bd1ef') in 0.052326 seconds
+  Import took 0.057933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.710292 seconds.
+  path: Assets/Fonts/Young20SRegular-wrB3 SDF.asset
+  artifactKey: Guid(00d022aa07ba4a242a7721d6f295ca03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Young20SRegular-wrB3 SDF.asset using Guid(00d022aa07ba4a242a7721d6f295ca03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481ed39d6c36542c188bfd30417ce55f') in 0.018279 seconds
+  Import took 0.022566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 270.933703 seconds.
+  path: Assets/art-deco-design-gold-black-wallpaper.htm
+  artifactKey: Guid(493ca663bab9e9647a075ae03aab7569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/art-deco-design-gold-black-wallpaper.htm using Guid(493ca663bab9e9647a075ae03aab7569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f4496500e9579d3017753df2c285f3') in 0.012665 seconds
+  Import took 0.018486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008300 seconds.
+  path: Assets/art-deco-design-gold-black-wallpaper.htm
+  artifactKey: Guid(493ca663bab9e9647a075ae03aab7569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/art-deco-design-gold-black-wallpaper.htm using Guid(493ca663bab9e9647a075ae03aab7569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f4496500e9579d3017753df2c285f3') in 0.004077 seconds
+  Import took 0.010244 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007575 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.440 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.4 MB.
+System memory in use after: 134.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3215.
+Total: 3.046000 ms (FindLiveObjects: 0.348500 ms CreateObjectMapping: 0.084600 ms MarkObjects: 2.490500 ms  DeleteObjects: 0.120200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 278.431344 seconds.
+  path: Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/art_deco_design_gold_black_display.jpg
+  artifactKey: Guid(2f20dc40ae3ad1b4195940860b359d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/art_deco_design_gold_black_display.jpg using Guid(2f20dc40ae3ad1b4195940860b359d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52fe18563c85276e47003df213acdbf6') in 0.069088 seconds
+  Import took 0.074213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.036749 seconds.
+  path: Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/art_deco_design_gold_black_display.jpg
+  artifactKey: Guid(2f20dc40ae3ad1b4195940860b359d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/art_deco_design_gold_black_display.jpg using Guid(2f20dc40ae3ad1b4195940860b359d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922b1a3c0fc32d795df443eab0a87224') in 0.036102 seconds
+  Import took 0.040148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6078.959615 seconds.
+  path: Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/art_deco_design_gold_black_display.jpg
+  artifactKey: Guid(2f20dc40ae3ad1b4195940860b359d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/art_deco_design_gold_black_display.jpg using Guid(2f20dc40ae3ad1b4195940860b359d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce02da0a03c88f70def95b32bc3228a') in 0.328510 seconds
+  Import took 0.504858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002026 seconds.
+  path: Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/art_deco_design_gold_black_display.jpg
+  artifactKey: Guid(2f20dc40ae3ad1b4195940860b359d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/art_deco_design_gold_black_display.jpg using Guid(2f20dc40ae3ad1b4195940860b359d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce02da0a03c88f70def95b32bc3228a') in 0.028900 seconds
+  Import took 0.036424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 183.548456 seconds.
+  path: Assets/Icon_Item_Black_Potion.png
+  artifactKey: Guid(dbab0dd0ac480bf46a03e32df0d21ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Icon_Item_Black_Potion.png using Guid(dbab0dd0ac480bf46a03e32df0d21ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ca81c1fbc167963ffea63e302d5e5b') in 0.036420 seconds
+  Import took 0.043435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.468911 seconds.
+  path: Assets/Icon_Item_Black_Potion.png
+  artifactKey: Guid(dbab0dd0ac480bf46a03e32df0d21ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Icon_Item_Black_Potion.png using Guid(dbab0dd0ac480bf46a03e32df0d21ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82dc9632acff7bfb0ecbfefd2a95b90b') in 0.022675 seconds
+  Import took 0.029045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.478396 seconds.
+  path: Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/Icon_Item_Black_Potion.png
+  artifactKey: Guid(2d4d4b1d07357514796c53b888a8c1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/Icon_Item_Black_Potion.png using Guid(2d4d4b1d07357514796c53b888a8c1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae02a6b208e66e1b10430451dd2d3acc') in 0.023886 seconds
+  Import took 0.029298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.362547 seconds.
+  path: Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/Icon_Item_Black_Potion.png
+  artifactKey: Guid(2d4d4b1d07357514796c53b888a8c1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/Icon_Item_Black_Potion.png using Guid(2d4d4b1d07357514796c53b888a8c1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dddcf2e418db11a80702cf5b2f266483') in 0.022355 seconds
+  Import took 0.028026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 529.652360 seconds.
+  path: Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/DH-426_580x.png
+  artifactKey: Guid(b7458b8558789ba40a04227cc1ef24ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/DH-426_580x.png using Guid(b7458b8558789ba40a04227cc1ef24ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8412aa617ca87fa061adeb01ccd3c22c') in 0.044110 seconds
+  Import took 0.050193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.945953 seconds.
+  path: Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/DH-426_580x.png
+  artifactKey: Guid(b7458b8558789ba40a04227cc1ef24ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Happy Halloween/Textures/Stickers/DH-426_580x.png using Guid(b7458b8558789ba40a04227cc1ef24ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78ac5cd2fc56a9cb79e74f7c6880853') in 0.063910 seconds
+  Import took 0.069590 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007349 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.392 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.5 MB.
+System memory in use after: 134.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3224.
+Total: 3.426700 ms (FindLiveObjects: 0.645700 ms CreateObjectMapping: 0.107100 ms MarkObjects: 2.531000 ms  DeleteObjects: 0.141600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 313.329280 seconds.
+  path: Assets/LEGO/Scenes/Menu Lose.unity
+  artifactKey: Guid(23bd42193fd3048b7b6f4dedf8f3317a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/Menu Lose.unity using Guid(23bd42193fd3048b7b6f4dedf8f3317a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a23f902121de33a0f382009357f150') in 0.127588 seconds
+  Import took 0.133362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2664.614778 seconds.
+  path: Assets/LEGO/Scenes/DH-426_580x.png
+  artifactKey: Guid(59858c8d6f67924499799fa21fb7b325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/DH-426_580x.png using Guid(59858c8d6f67924499799fa21fb7b325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053e4b4e2b69c8ee8756090a2b55ea78') in 0.073244 seconds
+  Import took 0.079362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003954 seconds.
+  path: Assets/LEGO/Scenes/DH-426_580x.png
+  artifactKey: Guid(59858c8d6f67924499799fa21fb7b325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/DH-426_580x.png using Guid(59858c8d6f67924499799fa21fb7b325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053e4b4e2b69c8ee8756090a2b55ea78') in 0.015062 seconds
+  Import took 0.020052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.952426 seconds.
+  path: Assets/LEGO/Scenes/DH-426_580x.png
+  artifactKey: Guid(59858c8d6f67924499799fa21fb7b325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/DH-426_580x.png using Guid(59858c8d6f67924499799fa21fb7b325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995376e085a5bdf0f2f9e6f14e02604e') in 0.046197 seconds
+  Import took 0.051097 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007986 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.6 MB.
+System memory in use after: 134.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3228.
+Total: 4.210600 ms (FindLiveObjects: 0.676500 ms CreateObjectMapping: 0.094700 ms MarkObjects: 3.280500 ms  DeleteObjects: 0.157100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009515 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.494 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.6 MB.
+System memory in use after: 134.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3231.
+Total: 6.313600 ms (FindLiveObjects: 1.098300 ms CreateObjectMapping: 0.381800 ms MarkObjects: 4.593900 ms  DeleteObjects: 0.238000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.035656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.6 MB.
+System memory in use after: 134.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3234.
+Total: 4.593300 ms (FindLiveObjects: 0.513900 ms CreateObjectMapping: 0.301100 ms MarkObjects: 3.588900 ms  DeleteObjects: 0.188100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012572 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.355 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.7 MB.
+System memory in use after: 134.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3237.
+Total: 3.835300 ms (FindLiveObjects: 0.346000 ms CreateObjectMapping: 0.100900 ms MarkObjects: 3.234700 ms  DeleteObjects: 0.151700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009776 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.549 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.7 MB.
+System memory in use after: 134.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3240.
+Total: 5.441700 ms (FindLiveObjects: 0.371500 ms CreateObjectMapping: 0.149600 ms MarkObjects: 4.621400 ms  DeleteObjects: 0.297000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.665 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.7 MB.
+System memory in use after: 134.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3244.
+Total: 8.324000 ms (FindLiveObjects: 1.376900 ms CreateObjectMapping: 0.399300 ms MarkObjects: 6.310200 ms  DeleteObjects: 0.234300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2616.657141 seconds.
+  path: Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes
+  artifactKey: Guid(a05d2324b0ed74293ba612079e2f9da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes using Guid(a05d2324b0ed74293ba612079e2f9da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df90e9475aca9f03ee702d4da05c449') in 0.019762 seconds
+  Import took 0.030103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016043 seconds.
+  path: Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes
+  artifactKey: Guid(a05d2324b0ed74293ba612079e2f9da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes using Guid(a05d2324b0ed74293ba612079e2f9da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df90e9475aca9f03ee702d4da05c449') in 0.004994 seconds
+  Import took 0.010937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.072783 seconds.
+  path: Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm.unity
+  artifactKey: Guid(ea241b50ab5ba4dcc9ff6e0d13ddaa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm.unity using Guid(ea241b50ab5ba4dcc9ff6e0d13ddaa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4658aa155c79e4c3e6ef279fdee44609') in 0.025656 seconds
+  Import took 0.030293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.283669 seconds.
+  path: Assets/AddOns/MgLEGO Year of the Ox/Prefabs
+  artifactKey: Guid(091cc418fc00a462d9472c82a7a08f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Year of the Ox/Prefabs using Guid(091cc418fc00a462d9472c82a7a08f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd862f707bda2f30b94e823af79f56bfc') in 0.010299 seconds
+  Import took 0.015413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.259744 seconds.
+  path: Assets/AddOns/MgLEGO Year of the Ox/Prefabs/LEGO Models
+  artifactKey: Guid(3f6427a5216d74ffabf95ecefee53820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Year of the Ox/Prefabs/LEGO Models using Guid(3f6427a5216d74ffabf95ecefee53820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3b1568f0316f1596b4c86c909805e3') in 0.010504 seconds
+  Import took 0.015328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.073303 seconds.
+  path: Assets/AddOns/MgLEGO Year of the Ox/Prefabs/LEGO Models/Ox.prefab
+  artifactKey: Guid(212766f65336a48c1b117af24e2f793c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Year of the Ox/Prefabs/LEGO Models/Ox.prefab using Guid(212766f65336a48c1b117af24e2f793c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7727e91ecf63ba4c60d4db98404809d') in 0.868280 seconds
+  Import took 0.896169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.028241 seconds.
+  path: Assets/AddOns/MgLEGO Year of the Ox/Prefabs/LEGO Models/Fireworks.prefab
+  artifactKey: Guid(70a58c182b7e041b6b850560522c8082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Year of the Ox/Prefabs/LEGO Models/Fireworks.prefab using Guid(70a58c182b7e041b6b850560522c8082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86342dac0ec6f407e48024b4c5876575') in 0.109100 seconds
+  Import took 0.119145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023183 seconds.
+  path: Assets/AddOns/MgLEGO Year of the Ox/Prefabs/LEGO Models/Fireworks.prefab
+  artifactKey: Guid(70a58c182b7e041b6b850560522c8082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Year of the Ox/Prefabs/LEGO Models/Fireworks.prefab using Guid(70a58c182b7e041b6b850560522c8082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86342dac0ec6f407e48024b4c5876575') in 0.162602 seconds
+  Import took 0.174487 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006724 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.504 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.1 MB.
+System memory in use after: 138.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3249.
+Total: 3.546100 ms (FindLiveObjects: 0.475100 ms CreateObjectMapping: 0.196500 ms MarkObjects: 2.729200 ms  DeleteObjects: 0.143500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.622984 seconds.
+  path: Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm Settings.lighting
+  artifactKey: Guid(28a33ec1f150b428ab5f042cec49c64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm Settings.lighting using Guid(28a33ec1f150b428ab5f042cec49c64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e8ac5f3ba35bb41134760a3bb7e4aa') in 0.029746 seconds
+  Import took 0.035545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.979244 seconds.
+  path: Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm.unity
+  artifactKey: Guid(ea241b50ab5ba4dcc9ff6e0d13ddaa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm.unity using Guid(ea241b50ab5ba4dcc9ff6e0d13ddaa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f47b2e9352e97cc321e86eca2ef4abc') in 0.004675 seconds
+  Import took 0.009865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030129 seconds.
+  path: Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm.unity
+  artifactKey: Guid(ea241b50ab5ba4dcc9ff6e0d13ddaa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm.unity using Guid(ea241b50ab5ba4dcc9ff6e0d13ddaa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f47b2e9352e97cc321e86eca2ef4abc') in 0.003687 seconds
+  Import took 0.007914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.981598 seconds.
+  path: Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm 1.unity
+  artifactKey: Guid(419988078afe04f41bc9e99e598f890a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm 1.unity using Guid(419988078afe04f41bc9e99e598f890a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a760a112b088b45d5da308ac2dad63f') in 0.009302 seconds
+  Import took 0.015067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024533 seconds.
+  path: Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm 1.unity
+  artifactKey: Guid(419988078afe04f41bc9e99e598f890a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Fluffys Carrot Farm/Scenes/Fluffys Carrot Farm 1.unity using Guid(419988078afe04f41bc9e99e598f890a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a760a112b088b45d5da308ac2dad63f') in 0.004357 seconds
+  Import took 0.008750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.318700 seconds.
+  path: Assets/LEGO/Scenes/Microgame- Gatsby Party.unity
+  artifactKey: Guid(419988078afe04f41bc9e99e598f890a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/Microgame- Gatsby Party.unity using Guid(419988078afe04f41bc9e99e598f890a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aebc921ffa17ce0c7309061adcc869f') in 0.010108 seconds
+  Import took 0.015839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.711943 seconds.
+  path: Assets/LEGO/Scenes/Microgame - Gatsby Party.unity
+  artifactKey: Guid(419988078afe04f41bc9e99e598f890a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/Microgame - Gatsby Party.unity using Guid(419988078afe04f41bc9e99e598f890a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f3706d38680cc2f6777bef6a44c99c') in 0.023396 seconds
+  Import took 0.029621 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007110 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.559 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.2 MB.
+System memory in use after: 138.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3252.
+Total: 3.765900 ms (FindLiveObjects: 0.471200 ms CreateObjectMapping: 0.115400 ms MarkObjects: 3.009500 ms  DeleteObjects: 0.142600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
